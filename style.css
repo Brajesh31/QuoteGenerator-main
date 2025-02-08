@@ -1,0 +1,9 @@
+body{
+    background-image: linear-gradient(purple, white, rgb(173, 108, 173));
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-size: 100%;
+    width: 100%;
+    
+    height: 500%;
+}
